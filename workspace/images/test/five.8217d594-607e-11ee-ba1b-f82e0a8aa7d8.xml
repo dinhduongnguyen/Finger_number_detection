@@ -1,0 +1,26 @@
+<annotation>
+	<folder>five</folder>
+	<filename>five.8217d594-607e-11ee-ba1b-f82e0a8aa7d8.jpg</filename>
+	<path>C:\Users\user\Tensorflow\workspace\images\collectedimages\five\five.8217d594-607e-11ee-ba1b-f82e0a8aa7d8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>158</ymin>
+			<xmax>377</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

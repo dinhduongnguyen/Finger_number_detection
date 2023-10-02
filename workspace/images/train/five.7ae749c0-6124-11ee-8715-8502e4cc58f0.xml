@@ -1,0 +1,26 @@
+<annotation>
+	<folder>five</folder>
+	<filename>five.7ae749c0-6124-11ee-8715-8502e4cc58f0.jpg</filename>
+	<path>C:\Users\user\Tensorflow\workspace\images\Train\five\five.7ae749c0-6124-11ee-8715-8502e4cc58f0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>five</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>99</ymin>
+			<xmax>270</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

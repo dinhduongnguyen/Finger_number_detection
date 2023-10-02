@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thee</folder>
+	<filename>thee.4cd42d64-607e-11ee-9c41-f82e0a8aa7d8.jpg</filename>
+	<path>C:\Users\user\Tensorflow\workspace\images\collectedimages\thee\thee.4cd42d64-607e-11ee-9c41-f82e0a8aa7d8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>216</ymin>
+			<xmax>383</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

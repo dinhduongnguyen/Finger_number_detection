@@ -1,0 +1,26 @@
+<annotation>
+	<folder>four</folder>
+	<filename>four.6b6c2a04-6124-11ee-86a6-8502e4cc58f0.jpg</filename>
+	<path>C:\Users\user\Tensorflow\workspace\images\Train\four\four.6b6c2a04-6124-11ee-86a6-8502e4cc58f0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>106</ymin>
+			<xmax>365</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

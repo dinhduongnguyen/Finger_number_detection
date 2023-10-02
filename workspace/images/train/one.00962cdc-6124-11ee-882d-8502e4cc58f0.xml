@@ -1,0 +1,26 @@
+<annotation>
+	<folder>one</folder>
+	<filename>one.00962cdc-6124-11ee-882d-8502e4cc58f0.jpg</filename>
+	<path>C:\Users\user\Tensorflow\workspace\images\Train\one\one.00962cdc-6124-11ee-882d-8502e4cc58f0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>146</ymin>
+			<xmax>260</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>
